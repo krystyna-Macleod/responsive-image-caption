@@ -85,3 +85,27 @@ div {
   }
 
 }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font: normal 110%/1.4 Georgia, sans-serif;
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  .img-flex {
+    position: relative;
+  }
+
+  .body-content {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 60%;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .3);
+    border-radius: 25px;
+  }
+
+}
