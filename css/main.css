@@ -67,6 +67,7 @@ div {
   html {
     font: normal 110%/1.4 Georgia, sans-serif;
     font-size: 110%;
+    line-height: 1.4;
   }
 
   .img-flex {
@@ -75,9 +76,9 @@ div {
 
   .body-content {
     position: absolute;
-    right: 20px;;
-    top: 90px;
-    width: 50%;
+    right: 20px;
+    top: 120px;
+    width: 60%;
     color: #fff;
     background-color: rgba(0, 0, 0, .3);
     border-radius: 25px;
