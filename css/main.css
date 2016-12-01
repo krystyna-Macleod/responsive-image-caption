@@ -13,5 +13,18 @@ html {
 }
 
 body {
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+h2 {
   font-family: "Denk One", sans-serif;
+}
+
+p {
+  font-family: Georgia, sans-serif;
 }
